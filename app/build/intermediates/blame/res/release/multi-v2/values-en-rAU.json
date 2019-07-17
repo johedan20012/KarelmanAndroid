@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\kevin20012\\Desktop\\Programacion\\AndroidStudio\\SDL2\\KarelmanSDL\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kevin20012\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\80102efcfb237f042174a7461d31539b\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Jul 16 19:14:42 CDT 2019
+base.0=C\:\\Users\\kevin20012\\Desktop\\Programacion\\AndroidStudio\\SDL2\\KarelmanSDL\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
